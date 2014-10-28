@@ -1,0 +1,7 @@
+syntax: glob
+
+*.pyc
+wikicorpus.tagged.es
+es-context.txt
+es-lexicon.txt
+es-morphology.txt
